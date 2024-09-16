@@ -1,4 +1,6 @@
-## Você pode acessar a aplicação pela url : https://organo-cursos.vercel.app/
+### Esta aplicação foi feita para centralizar os cursos que eu faço. Utilizei Javascript, html e css com a biblioteca React.
+### Meu objetivo é aperfeiçoar minhas técnicas com o react.
+### Você pode acessar a aplicação pela url : https://organo-cursos.vercel.app/
 
 # Getting Started with Create React App
 
