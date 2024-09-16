@@ -1,0 +1,12 @@
+.banner {
+    background-color: #6278f7;
+    text-align: center;
+}
+
+/*
+max-width: 100%; deixa a imagem 100% ocupando a pagina, independente se estiver maximizada ou mini
+*/
+.banner img{
+    max-width: 100%; 
+}
+
