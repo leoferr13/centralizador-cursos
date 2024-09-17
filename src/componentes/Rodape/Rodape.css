@@ -1,17 +1,11 @@
-.footer {
-    background: #6278F7;
-    color: #FFF;
-    padding: 80px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.rodape {
+    background-color: #ffffff;
+    text-align: center;
 }
 
-.footer ul li {
-    display: inline-block;
-    margin-right: 32px;
-}
-
-.footer ul li:last-child {
-    margin-right: 0;
+/*
+max-width: 100%; deixa a imagem 100% ocupando a pagina, independente se estiver maximizada ou mini
+*/
+.rodape img{
+    max-width: 100%; 
 }

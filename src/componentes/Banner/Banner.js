@@ -5,7 +5,7 @@ export const Banner = () => {
         
         //usamos className para não ter conflito com o HTML
         <header className='banner'> 
-        <img src="/imagens/banner.png" alt="O banner principal da pagina Organo"/>
+        <img src="/imagens/Banner_v2.0.png" alt="O banner principal da pagina Centralizador de Cursos"/>
         </header>
     )
 
